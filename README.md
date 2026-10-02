@@ -801,8 +801,12 @@ SOFTWARE.
 ---
 
 # 👨‍💻 Author
+Sufiyan Shaikh
+Excelsior Technologies
 
-Developed as a reusable Flutter UI package for production-oriented mobile application development.
+Flutter Developer
+
+Built with Flutter and Dart as a reusable, production-ready UI package by Excelsior Technologies.
 
 ## ⭐ Support
 
