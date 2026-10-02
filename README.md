@@ -731,7 +731,7 @@ git checkout master
 The demo animation is stored at:
 
 ```text
-assets/demo.gif
+example/assets/demo.gif
 ```
 
 The README displays it using:
